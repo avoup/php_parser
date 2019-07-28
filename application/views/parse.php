@@ -32,11 +32,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<?php echo '<tr><td>'
 										. $dt_row->find('td', 2)->plaintext
 										. '</td>'
-										. '<td>'
-										. $dt_row->find('td', 3)->title
+										. '<td title="'
+										. $dt_row->find('td', 3)->title . '">' . $dt_row->find('td', 3)->children(0)->plaintext
 										. '</td>'
-										. '<td>'
-										. $dt_row->find('td', 4)->title
+										. '<td title="'
+										. $dt_row->find('td', 4)->title . '">' . $dt_row->find('td', 4)->children(0)->plaintext
 										. '</td>'
 										. '<td>'
 										. $dt_row->find('td', 5)->plaintext
