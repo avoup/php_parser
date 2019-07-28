@@ -33,10 +33,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 										. $dt_row->find('td', 2)->plaintext
 										. '</td>'
 										. '<td>'
-										. $dt_row->find('td', 3)->plaintext
+										. $dt_row->find('td', 3)->title
 										. '</td>'
 										. '<td>'
-										. $dt_row->find('td', 4)->plaintext
+										. $dt_row->find('td', 4)->title
 										. '</td>'
 										. '<td>'
 										. $dt_row->find('td', 5)->plaintext
