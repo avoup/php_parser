@@ -17,7 +17,7 @@ class Parser extends CI_Controller {
 
 			function parse() {
 
-						$html = file_get_html('https://www.flightradar24.com/data/flights/tk1005');
+						$html = file_get_html('https://www.flightradar24.com/data/flights/' . $this->input->post('flight'));
 
 						$data['dt'] = $html;
 

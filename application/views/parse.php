@@ -13,7 +13,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </style>
 </head>
 <table>
-
+<thead>
+	<tr>
+		<td>date</td>
+		<td>from</td>
+		<td>to</td>
+		<td>aircraft</td>
+		<td>flight time</td>
+		<td>std</td>
+		<td>atd</td>
+		<td>sta</td>
+		<td>status</td>
+	</tr>
+</thead>
+<tbody>
 	<?php foreach($dt->find('.data-row') as $dt_row): ?>
 
 				<?php echo '<tr><td>'
@@ -46,7 +59,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 										. '</tr>'; ?>
 
 	<?php endforeach; ?>
-
+</tbody>
 </table>
 </body>
 </html>
