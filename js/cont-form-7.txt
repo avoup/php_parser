@@ -1,0 +1,47 @@
+Main
+title: social
+[:en]Flight compensation of up to 600 euros [:ka]ფრენის კომპენსაცია 600 ევრომდე [:ru] [:]
+description: all
+[:en]Get flight compensation of up to 600 euros in case of flight delay, cancellation, missed conenction, denied boarding, lost or damaged luggage.[:ka]მიიღეთ ფრენის კომპენსაცია, დაგვიანებული, გადადებული, დამაკავშირებელი რეისის გამოტოვების, ბარგის დაზიანება დაკარგვის შემთხვევაში [:]
+
+Cancellation
+title social:
+[:en]Flight cancellation compensation of up to 600 euros [:ka]გაუქმებული ფრენის ანაზღაურება 600 ევრომდე [:ru] [:]
+description all:
+[:en]Claim flight cancellation compensation in case your flight was cancelled or postponed and you were not notified (at least 14 days prior)[:ka]მოითხოვეთ კომპენსაცია გადადებულ ფრენაზე, თუ ფრენის გაუქმება, ან რეისის გადადება არ შეგატყობინეს მინიმუმ 14 დღით ადრე [:]
+
+Delay
+title social:
+[:en]Flight delay compensation of up to 600 euros [:ka]დაგვიანებული ფრენის კომპენსაცია 600 ევრომდე [:ru] [:]
+description all:
+[:en]Claim flight delay compensation in case your flight was delayed for 3 or more hours or you missed connecting flight [:ka]თქვენ გაქვთ უფლება მოითხოვოთ დაგვიანებული ფრენის ანაზღაურება, თუ ფრენის დაგვიანება 3+ საათია, ან რეისის დაგვიანებამ გამოგატოვებინათ დამაკავშირებელი ფრენა [:]
+
+Overbook
+title social:
+[:en]Overbooked flight compensation of up to 600 euros [:ka]გადაჯავშნილი ფრენის კომპენსაცია 600 ევრომდე [:ru] [:]
+description all:
+[:en]You can ask for overbooked flight compensation if this was the reason of denial to board and you were not offered alternative flight[:ka]გადაჯავშნილი ფრენა ანაზღაურებადია თუ ეს თქვენი რეისზე არ დაშვების მიზეზი გახდა და არ შემოგთავაზეს ალტერნატიული რეისი, ან ვაუჩერი.[:]
+
+Missed connection
+title social:
+[:en]Missed connection compensation of up to 600 euros [:ka]დამაკავშირებელი ფრენის კომპენსაცია 600 ევრომდე [:ru] [:]
+description all:
+[:en]Claim compensation if you missed connecting flight and the reason was caused by airlines [:ka]მიიღეთ კომპენსაცია თუ თქვენ გამოტოვეთ დამაკავშირებელი ფრენა და ამის მიზეზი გამოწვეული იყო ავიაკომპანიის მიერ.[:]
+
+Submit Claim
+title social:
+[:en]Flight compensation form [:ka]ფრენის კომპენსაციის ფორმა [:ru] [:]
+description all:
+[:en]Fill the form and get flight compensation of up to 600 euros. [:ka]შეავსეთ ფორმა და მიიღეთ ფრენის ანაზღაურება 600 ევრომდე.[:]
+
+faq
+title social:
+[:en]Frequently asked question - Flyinspectors [:ka]ხშირად დასმული შეკითხვები - Flyinspectors[:]
+description all:
+[:en] Frequently asked questions about flight delay, cancellation, lost/daaged baggage compensation and EU 261/2004 Regulation [:ka] ხშირად დასმული შეკითხვები ფრენის დაგვიანება, გადადება/გაუქმება, ბარგის დაკარგვა/დაზიანების კომპნესაციისა და EU 261/2004 რეგულაციის შესახებ.[:]
+
+baggage
+title social:
+[:en]Lost, damaged, delayed baggage compensation - Flyinspectors[:ka] დაკარგული, დაზიანებული, დაგვიანებული ბარგის კომპენსაცია - Flyinspectors[:]
+description all:
+[:en]You are eligible for a compensation, if your baggage was lost, damaged or delayed by airlines[:ka]თქვენ გაქვთ უფლება მოითხოვოთ კომპენსაცია თუ ავიკომპანიაზე მიბარებული ბარგი დაზიანდა, დაიგვიანა ან დაიკარგა[:]
